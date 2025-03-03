@@ -1,6 +1,16 @@
 {
   "name": "@bearz/process",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "A runtime agnostic process module for Deno, Bun, and Node.js",
+  "keywords": [
+    "process",
+    "stdio",
+    "stdin",
+    "stdout",
+    "stderr",
+    "pushd",
+    "popd"
+  ],
   "homepage": "bearz.io",
   "repository": {
     "type": "git",
